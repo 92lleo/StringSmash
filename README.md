@@ -8,4 +8,4 @@ This was inspired by the [Hodor Module](http://repo.xposed.info/module/com.germa
 Just set a text you want and enable the switch. Just switch off to end it. You may have to reboot to set everything to normal again.
 Remeber that this is just a fun app, be careful on a productive phone!
 
-Download the apk [here](http://www.kuenzler.io/dl/apps/): 
+Download the apk [here](http://kuenzler.io/dl/apps/StringSmash/)
